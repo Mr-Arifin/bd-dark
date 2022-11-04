@@ -1,7 +1,7 @@
 # bd-dark
 
 
-git clone https://github.com/Mr-Arifin/bd-dark.git
+git clone https://github.com/Mr-Arifin/bd-dark
 
 cd bd-dark
 
